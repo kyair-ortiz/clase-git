@@ -1,6 +1,4 @@
-\#Probando git
+\# Creación del README2.md
 
-\#Interiorizando git
-
-\#Modificación
+\## Subtitulo del README2.md
 
