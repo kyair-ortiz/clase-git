@@ -22,3 +22,5 @@ Paso 7. Utilizamos el comando "git add (nombre archivo)" para hacerle seguimient
 
 Paso 8. Se modifica el archivo desde el explorador de archivos para luego usar "git status", mapear y agregar esas modificaciones utilizando el comando "git add ."
 
+Paso 9. Se conecta el repositorio local con el remoto a través del comando "git remote add "(url del repositorio remoto)" y se renombra la rama a master con "git Branch -M master".
+
