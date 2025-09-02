@@ -24,3 +24,5 @@ Paso 8. Se modifica el archivo desde el explorador de archivos para luego usar "
 
 Paso 9. Se conecta el repositorio local con el remoto a través del comando "git remote add "(url del repositorio remoto)" y se renombra la rama a master con "git Branch -M master".
 
+Paso 10. Para enviar los commits o cambios al repositorio remoto, se utiliza el comando "git push -u origin master", realizas el proceso de autenticación de GitHub y recargas la página de GitHub para observar los commits enviados y reflejados en tu repositorio remoto.
+
