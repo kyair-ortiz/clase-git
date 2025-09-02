@@ -12,3 +12,5 @@ git config --global user.email "tu correo de GitHub"
 
 Paso 3. Creamos la carpeta en donde se desea inicializar el repositorio de Git.
 
+Paso 4. Ubicamos la carpeta deseada utilizando los comandos "ls" y "cd" e inicializamos el repositorio con "git init"
+
