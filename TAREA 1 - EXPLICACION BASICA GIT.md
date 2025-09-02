@@ -18,3 +18,5 @@ Paso 5. Creamos un archivo README.md en el repositorio desde el explorador de ar
 
 Paso 6. Utilizamos "git status" para mapear los archivos sin seguimiento.
 
+Paso 7. Utilizamos el comando "git add (nombre archivo)" para hacerle seguimiento y agregarlo al staging área, para luego hacer el commit con el comando "git commit -m "(any message)" y guardar el cambio en el repositorio local.
+
