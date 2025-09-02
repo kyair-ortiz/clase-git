@@ -14,3 +14,5 @@ Paso 3. Creamos la carpeta en donde se desea inicializar el repositorio de Git.
 
 Paso 4. Ubicamos la carpeta deseada utilizando los comandos "ls" y "cd" e inicializamos el repositorio con "git init"
 
+Paso 5. Creamos un archivo README.md en el repositorio desde el explorador de archivos.
+
