@@ -20,3 +20,5 @@ Paso 6. Utilizamos "git status" para mapear los archivos sin seguimiento.
 
 Paso 7. Utilizamos el comando "git add (nombre archivo)" para hacerle seguimiento y agregarlo al staging área, para luego hacer el commit con el comando "git commit -m "(any message)" y guardar el cambio en el repositorio local.
 
+Paso 8. Se modifica el archivo desde el explorador de archivos para luego usar "git status", mapear y agregar esas modificaciones utilizando el comando "git add ."
+
