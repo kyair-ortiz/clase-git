@@ -10,3 +10,5 @@ git config --global user.name "tu usuario de GitHub"
 
 git config --global user.email "tu correo de GitHub"
 
+Paso 3. Creamos la carpeta en donde se desea inicializar el repositorio de Git.
+
