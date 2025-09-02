@@ -16,3 +16,5 @@ Paso 4. Ubicamos la carpeta deseada utilizando los comandos "ls" y "cd" e inicia
 
 Paso 5. Creamos un archivo README.md en el repositorio desde el explorador de archivos.
 
+Paso 6. Utilizamos "git status" para mapear los archivos sin seguimiento.
+
